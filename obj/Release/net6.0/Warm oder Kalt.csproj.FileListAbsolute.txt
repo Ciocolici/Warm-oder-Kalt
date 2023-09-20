@@ -1,0 +1,17 @@
+C:\Users\danie\Documents\GitHub\Warm oder Kalt\bin\Release\net6.0\Warm oder Kalt.exe
+C:\Users\danie\Documents\GitHub\Warm oder Kalt\bin\Release\net6.0\Warm oder Kalt.deps.json
+C:\Users\danie\Documents\GitHub\Warm oder Kalt\bin\Release\net6.0\Warm oder Kalt.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\Warm oder Kalt\bin\Release\net6.0\Warm oder Kalt.dll
+C:\Users\danie\Documents\GitHub\Warm oder Kalt\bin\Release\net6.0\Warm oder Kalt.pdb
+C:\Users\danie\Documents\GitHub\Warm oder Kalt\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\danie\Documents\GitHub\Warm oder Kalt\obj\Release\net6.0\Warm oder Kalt.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\Warm oder Kalt\obj\Release\net6.0\Warm oder Kalt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\Warm oder Kalt\obj\Release\net6.0\Warm oder Kalt.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\Warm oder Kalt\obj\Release\net6.0\Warm oder Kalt.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\Warm oder Kalt\obj\Release\net6.0\Warm oder Kalt.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\Warm oder Kalt\obj\Release\net6.0\Warm oder Kalt.csproj.CopyComplete
+C:\Users\danie\Documents\GitHub\Warm oder Kalt\obj\Release\net6.0\Warm oder Kalt.dll
+C:\Users\danie\Documents\GitHub\Warm oder Kalt\obj\Release\net6.0\refint\Warm oder Kalt.dll
+C:\Users\danie\Documents\GitHub\Warm oder Kalt\obj\Release\net6.0\Warm oder Kalt.pdb
+C:\Users\danie\Documents\GitHub\Warm oder Kalt\obj\Release\net6.0\Warm oder Kalt.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\Warm oder Kalt\obj\Release\net6.0\ref\Warm oder Kalt.dll

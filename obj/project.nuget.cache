@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BBCuXqVh7XwPAq9o7ClpNCx9k/LM6gY+hBkiNrM+Ds4q5/mWxmYMWmSVemYnJdK+MmpdE7zvt6lDUZbTwzjVEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\Documents\\GitHub\\Warm oder Kalt\\Warm oder Kalt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
