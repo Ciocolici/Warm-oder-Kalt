@@ -1,9 +1,26 @@
 # Warm Oder Kalt
-A C# (CSharp) Console App exercise-project, done during my classes for IT Specialist in Application Development by Lutz & Grub Academy. The hot or cold game, with highscore save file incorporated, ordered by best score. 
 
-A much better-written hot or cold game than previously (see [5-in-1](https://github.com/Ciocolici/5-in-1)).
-I am quite proud of what I've accomplished in this one, seeing how far I've gotten in such a short time. Yeah, yeah, I know others may progress even faster, but when I reflect on how not too long ago I couldn't write a single line of code.., and look what I can do now. FeelsGoodMan™
+A C# (CSharp) Console App exercise project developed during my retraining as an IT Specialist in Application Development at Lutz + Grub Academy.
 
-*To run the Console App program directly, launch "Warm oder Kalt.exe" located in "bin/Release/net6.0".*
+This is a number guessing game where the player has to guess a random number between 0 and 100. The game gives feedback whether the new guess is “warmer” (closer) or “colder” (further away) compared to the previous one. The number of attempts is recorded and stored as a highscore, sorted by best performance.
 
-*Note: german language used.*
+Player data is saved and loaded from a JSON file using serialization.
+
+### Features
+
+- Random number guessing game (0–100)
+- Console feedback: "warmer", "colder", or "correct"
+- Scoreboard: highscores based on number of attempts
+- JSON serialization and deserialization with `Newtonsoft.Json`
+
+### How to Run
+
+To run the Console App program directly, launch  
+`Warm oder Kalt.exe` located in  
+`bin/Release/net6.0`.
+
+> **Note**: German language used in console output.
+
+---
+
+The code was written independently by me. The class only provided a general idea of what the project should do.
