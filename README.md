@@ -1,6 +1,6 @@
 # Warm Oder Kalt
 
-A C# (CSharp) Console App exercise project developed during my retraining as an IT Specialist in Application Development at Lutz + Grub Academy.
+A C# (CSharp) Console App exercise project developed during my retraining as an IT Specialist in Application Development at Lutz + Grub Academy. It is a remade/improved application, initially part of [this project](https://github.com/Ciocolici/5-in-1) of mine.
 
 This is a number guessing game where the player has to guess a random number between 0 and 100. The game gives feedback whether the new guess is “warmer” (closer) or “colder” (further away) compared to the previous one. The number of attempts is recorded and stored as a highscore, sorted by best performance.
 
